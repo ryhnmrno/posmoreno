@@ -1,2 +1,2 @@
-# WEB PROJECT
+# POINT OF SALES 
 ujikom RPL
